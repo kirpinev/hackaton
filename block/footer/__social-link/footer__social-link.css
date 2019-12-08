@@ -1,0 +1,10 @@
+.footer__social-link {
+    cursor: pointer;
+    margin-left: 30px;
+    /* display: inline-block; */
+    text-decoration: none;
+}
+
+.footer__social-link:first-child {
+    margin-left: 0;
+}
