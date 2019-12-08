@@ -1,0 +1,9 @@
+.footer__unicode {
+    background-color: #111B47;
+    padding: 4px;
+    border-radius: 2px;
+    font-weight: 500;
+    font-size: 0.75em;
+    line-height: 1.3;
+    color: #fff;
+}
