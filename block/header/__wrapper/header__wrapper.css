@@ -1,7 +1,7 @@
 .header__wrapper {
-  max-width: 1217px;
+  max-width: 1110px;
   margin: 0 auto;
   position: relative;
   display: flex;
-    align-items: center;
+  align-items: center;
 }

@@ -2,4 +2,5 @@
 @import url("./__button/header__button.css");
 
 .header {
+    padding: 20px 0;
 }

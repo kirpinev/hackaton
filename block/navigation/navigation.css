@@ -1,5 +1,6 @@
 @import url("./__item/navigation__item.css");
 @import url("./__list/navigation__list.css");
+@import url(./__link/navigation__link.css);
 
 .navigation {
   max-width: 1217px;
