@@ -1,3 +1,7 @@
 .page {
     margin: 0;
+    background-color: #CCC9BB;
+    font-family: Roboto, Arial, sans-serif;
+    line-height: 1.5;
+    color: #141414;
 }
