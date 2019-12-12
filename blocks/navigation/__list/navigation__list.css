@@ -1,7 +1,4 @@
 .navigation__list {
   list-style-type: none;
-  display: flex;
-  justify-content: space-around;
-  width: 245px;
   padding-left: 0;
 }
