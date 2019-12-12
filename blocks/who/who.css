@@ -1,1 +1,5 @@
 @import url(./__wrapper/who__wrapper.css);
+
+.who {
+    width: 100%;
+}
