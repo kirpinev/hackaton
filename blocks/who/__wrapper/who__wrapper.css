@@ -1,0 +1,7 @@
+.who__wrapper {
+    padding-top: 70px;
+    width: 1280px;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}

@@ -1,3 +1,5 @@
+@import url(./_margin/post__image_margin.css);
+
 .post__image {
     max-width: 650px;
 }
